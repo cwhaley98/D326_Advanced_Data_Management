@@ -92,31 +92,31 @@ This report is designed to be refreshed monthly because the summarized data is a
 
 ### B. Provide original code for function(s) in text format that perform the transformation(s) you identified in part A4.
 
-Example code located in DVD_DB_Proj.sql
+Example code located in complex_queries_proj.sql
 
 </br>
 
 ### C. Provide original SQL code in a text format that creates the detailed and summary tables to hold your report table sections.
 
-Example code located in DVD_DB_Proj.sql
+Example code located in complex_queries_proj.sql
 
 </br>
 
 ### D. Provide an original SQL query in a text format that will extract the raw data needed for the detailed section of your report from the source database.
 
-Example code located in DVD_DB_Proj.sql
+Example code located in complex_queries_proj.sql
 
 </br>
 
 ### E. Provide original SQL code in a text format that creates a trigger on the detailed table of the report that will continually update the summary table as data is added to the detailed table.
 
-Example code located in DVD_DB_Proj.sql
+Example code located in complex_queries_proj.sql
 
 </br>
 
 ### F. Provide an original stored procedure in a text format that can be used to refresh the data in both the detailed table and summary table. The procedure should clear the contents of the detailed table and summary table and perform the raw data extraction from part D.
 
-Example code located in DVD_DB_Proj.sql
+Example code located in complex_queries_proj.sql
 
 </br>
 
